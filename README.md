@@ -1,8 +1,8 @@
 # small_RNA_analysis
 
-1. Prerequisite: ShortStack (https://github.com/MikeAxtell/ShortStack)
-                 Bsmap2 (https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-232)
-                 python3
+1. Prerequisite: - ShortStack (https://github.com/MikeAxtell/ShortStack)
+                 - Bsmap2 (https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-232)
+                 - python3
 
 2. Purpose: The scripts in this repository are used to analyze argonaute-associated small interfering RNAs (siRNAs) and their roles in RNA-directed DNA methylation in plants.
 
